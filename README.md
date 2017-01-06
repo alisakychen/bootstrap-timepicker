@@ -5,6 +5,8 @@ Timepicker for Twitter Bootstrap [![Build Status](https://secure.travis-ci.org/j
 ------------------------------------
 
 A simple timepicker component for Twitter Bootstrap.
+Branched from version 0.3.0 of jdewit/bootstrap-timepicker (which uses FontAwesome icons)
+* fixes typo for styling with and passing option for timepicker-orientation-right
 
 Status
 ======
